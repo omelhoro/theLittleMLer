@@ -1,0 +1,6 @@
+*.cmo
+*.cmi
+bin/
+*.log
+*.cache
+out
